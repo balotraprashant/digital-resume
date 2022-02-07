@@ -1,4 +1,9 @@
-.App {
+@import './assets/css/aos.css';
+@import './assets/css/bootstrap.min.css';
+@import './assets/css/main.css';
+@import './assets/css/font-awesome/css/all.min.css';
+
+/* .App {
   text-align: center;
 }
 
@@ -35,4 +40,4 @@
   to {
     transform: rotate(360deg);
   }
-}
+} */
